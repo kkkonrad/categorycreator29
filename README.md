@@ -10,7 +10,7 @@
 
 
 ## Main Functionalities
-abc
+Create new Magento 2 category from console command
 
 ## Installation
 \* = in production please use the `--keep-generated` option
