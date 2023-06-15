@@ -2,18 +2,23 @@
     "name": "kkkonrad/module-categorycreator29",
     "description": "Create new Magento 2 category from console command",
     "type": "magento2-module",
-    "license": "proprietary",
+    "version": "1.0.1",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": [
+        "MIT"
+      ],
     "authors": [
         {
-            "name": "admin@hosting-magento.pl",
-            "email": "Administrator Hosting-magento.pl"
+          "name": "kkkonrad",
+          "email": "admin@hosting-magento.pl",
+          "homepage": "https://hosting-magento.pl",
+          "role": "Leader"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
     "autoload": {
         "files": [
             "registration.php"
-        ],
+        ]
     }
 }
