@@ -5,8 +5,8 @@
     "license": "proprietary",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "admin@hosting-magento.pl",
+            "email": "Administrator Hosting-magento.pl"
         }
     ],
     "minimum-stability": "dev",
@@ -15,8 +15,5 @@
         "files": [
             "registration.php"
         ],
-        "psr-4": {
-            "Kkkonrad\\Categorycreator29\\": ""
-        }
     }
 }
