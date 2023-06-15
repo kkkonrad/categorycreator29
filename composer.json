@@ -1,6 +1,6 @@
 {
     "name": "kkkonrad/module-categorycreator29",
-    "description": "abc",
+    "description": "Create new Magento 2 category from console command",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
