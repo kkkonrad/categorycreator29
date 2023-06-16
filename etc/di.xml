@@ -3,7 +3,7 @@
 	<type name="Magento\Framework\Console\CommandList">
 		<arguments>
 			<argument name="commands" xsi:type="array">
-				<item name="createcategory" xsi:type="object">Kkkonrad\Categorycreator29\Console\Command\Createcategory</item>
+				<item name="create_category" xsi:type="object">Kkkonrad\Categorycreator29\Console\Command\CreateCategoryCommand</item>
 			</argument>
 		</arguments>
 	</type>
