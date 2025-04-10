@@ -12,6 +12,9 @@ use Magento\Framework\Console\Cli;
 class CreateCategoryCommand extends Command
 {
 
+    protected $_storeManager;
+    protected $_categoryFactory;
+    protected $_registry;
     const NAME_ARGUMENT = "name";
     const NAME_OPTION = "option";
 
